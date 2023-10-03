@@ -46,7 +46,7 @@ Oasis Infobyte is a dynamic technology company that provides various IT solution
 
 For inquiries about the projects or internship, feel free to contact us at:
 - Email: ravi.vishwakarma141102@gmail.com
-- LinkedIn:linkedin.com/in/ravi-vishwakarma-8bb944270
+- LinkedIn: https://www.linkedin.com/in/ravi-vishwakarma-8bb944270
 
 We appreciate your interest and hope you find these projects insightful and informative!
 ```
